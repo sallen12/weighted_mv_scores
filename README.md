@@ -2,9 +2,9 @@
 
 Code to calculate weighted scoring rules in R. The weighted scores are discussed in [this paper](https://arxiv.org/abs/2202.12732).
 
-Weighted versions the **continuous ranked probability score (CRPS)**, **inverse multiquadric score** (IMS), **energy score** (ES), and **variogram score** (VS) are included.
+Weighted versions of the **continuous ranked probability score (CRPS)**, **inverse multiquadric score** (IMS), **energy score** (ES), and **variogram score** (VS) are included.
 
-In particular, the following univariate weighted scores are included:
+In particular, the following univariate weighted scores can be calculated:
   - Threshold-weighted CRPS (twcrps_sample)
   - Threshold-weighted IMS (twims_sample_uv)
   - Vertically re-scaled CRPS (vrcrps_sample)
