@@ -1,6 +1,6 @@
 # weighted_mv_scores
 
-This repository contains R code to accompanying the paper  
+This repository contains R code accompanying the paper  
 
 > Allen, S., Ginsbourger, D. and Ziegel, J. (2022). 
 > Evaluating forecasts for high-impact events using transformed kernel scores.
